@@ -1,3 +1,3 @@
 # My vscode themes
 
-## currently : dakv1-theme
+## currently : dak v2 : running red lights 😎
